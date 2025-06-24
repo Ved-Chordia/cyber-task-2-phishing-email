@@ -8,7 +8,7 @@ Analyze a phishing email sample to identify key indicators of a social engineeri
 ## What I Did
 
 1. Obtained a sample phishing email pretending to be from PayPal.
-2. Saved the email content in a file named `phishing_sample.txt`.
+2. Saved the email content in a file named `phishing sample email.txt`.
 3. Carefully analyzed the email for:
    - Email spoofing
    - Urgent/threatening language
@@ -32,7 +32,7 @@ Analyze a phishing email sample to identify key indicators of a social engineeri
 
 | File Name              | Description                            |
 |------------------------|----------------------------------------|
-| `phishing_sample.txt`  | The fake phishing email content        |
+| `phishing sample email.txt`  | The fake phishing email content        |
 | `analysis_report.md`   | My full analysis and explanation       |
 | `README.md`            | Summary of what I did in this task     |
 
